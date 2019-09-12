@@ -1,4 +1,4 @@
-# Simple-Cypress-Cucumber-Example
+# Simple Cypress Cucumber Example
 
 
 
