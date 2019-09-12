@@ -1,5 +1,5 @@
 # Simple-Cypress-Cucumber-Example
-This is meant to be a relatively simple example of BDD tests using Cypress.js &amp; Cucumber.js! 👍
+
 
 
 ## What's Here
@@ -20,8 +20,21 @@ If you just cloned this repo, install the dependencies:
 npm i
 ```
 
+At this point, all you gotta do is run either the cypress "open" or "run" commands depending on how you want to run the tests (ui mode or headless mode).
+
+```
+npm run cypress:open
+npm run cypress:run
+```
+
+These commands should run the regular ol' cypress test and the feature file + the step definition file version of the test.
+
+In the end the cucumber tests are all you really need, but the nicer browsersync updates makes developing in non-cucumber cypress a slightly nicer developer experience.
+
 
 ## How To Remake This Project
+If you want to set up cypress and cucumber from scratch in your repo, follow this guide. 
+
 
 ## Part 1 - Setup Cypress
 
