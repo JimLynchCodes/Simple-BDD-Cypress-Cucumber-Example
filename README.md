@@ -3,7 +3,7 @@
 
 
 ## What's Here
-There is no front-end project here, it's just a single, full cucumber.js + cypress.js  Feature for "showing results for what you meant instead of what you said" by using Google.com's search and checks that when you misspell "hello world" as "hello werld" it corrects it and gives you results for "hello world".
+There is no front-end project here, it's just one, full cucumber.js + cypress.js  Feature for "showing results for what you meant instead of what you said" by using Google.com's search and checks that when you misspell "hello world" as "hello werld" it corrects it and gives you results for "hello world".
 
 
 ## Usage
