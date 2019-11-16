@@ -27,7 +27,7 @@ watch the automated tests:
 npm run cypress:open
 ```
 
-run tests in headless mode:
+or to run tests in headless mode:
 ```
 npm run cypress:run
 ```
