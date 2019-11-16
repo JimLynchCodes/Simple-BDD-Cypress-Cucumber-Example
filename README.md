@@ -22,8 +22,13 @@ npm i
 
 At this point, all you gotta do is run either the cypress "open" or "run" commands depending on how you want to run the tests (ui mode or headless mode).
 
+watch the automated tests:
 ```
 npm run cypress:open
+```
+
+run tests in headless mode:
+```
 npm run cypress:run
 ```
 
