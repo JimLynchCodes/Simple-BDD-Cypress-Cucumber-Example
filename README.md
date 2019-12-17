@@ -65,7 +65,7 @@ npm run cypress:open
 npm run cypress:run
 ```
 
-_Note: I guess there is something about "cypress open" that it will check if you have a cypress.json file and cypress directory already in the root of your project. If not, it will scaffold out a shit-ton of files for you. 👍  _
+_Note: I guess there is something about "cypress open" that it will check if you have a cypress.json file and cypress directory already in the root of your project. If not, it will scaffold out a shit-ton of files for you. 👍_
 
 
 Here's some gherkin I came up with that describes the "shows what you meant" feature:
