@@ -90,7 +90,7 @@ Once I had this working, I went on to install cucumber.js!
 
 - Installed the "cypress-cucumber-preprocessor":
 ```
-npm i cypress-cucumber-preprocessor -save-dev
+npm i cypress-cucumber-preprocessor --save-dev
 ```
 
 Then go to `cypress/plugins/index.js` and, bring in the cucumber function with require and add a line in my so that that line so that cypress knows to use this cucumber preprocessor:
